@@ -1,0 +1,1204 @@
+{
+    "1": {
+      "incidents": [
+        {
+          "minute": 23,
+          "type": "GOAL",
+          "playerName": "Erling Haaland",
+          "teamName": "Manchester City",
+          "assistedBy": "Kevin De Bruyne"
+        },
+        {
+          "minute": 45,
+          "type": "YELLOW_CARD",
+          "playerName": "Joshua Kimmich",
+          "teamName": "Bayern Munich"
+        },
+        {
+          "minute": 67,
+          "type": "GOAL",
+          "playerName": "Jamal Musiala",
+          "teamName": "Bayern Munich"
+        },
+        {
+          "minute": 81,
+          "type": "GOAL",
+          "playerName": "Phil Foden",
+          "teamName": "Manchester City"
+        }
+      ],
+      "stats": {
+        "home": {
+          "possessionPercent": 56,
+          "shots": {
+            "total": 17,
+            "onTarget": 8,
+            "offTarget": 9
+          },
+          "passes што": {
+            "total": 585,
+            "accurate": 524
+          },
+          "corners": 9,
+          "fouls": 8,
+          "offsides": 2
+        },
+        "away": {
+          "possessionPercent": 44,
+          "shots": {
+            "total": 11,
+            "onTarget": 4,
+            "offTarget": 7
+          },
+          "passes": {
+            "total": 436,
+            "accurate": 371
+          },
+          "corners": 4,
+          "fouls": 10,
+          "offsides": 1
+        }
+      },
+      "lineups": {
+        "home": {
+          "teamName": "Manchester City",
+          "formation": "4-3-3",
+          "players": [
+            {
+              "id": "h1",
+              "name": "Ederson",
+              "number": 31,
+              "position": "GK",
+              "role": "STARTER",
+              "rating": 7.3,
+              "teamName": "Manchester City",
+              "stats": {
+                "saves": 3,
+                "conceded": 1
+              }
+            },
+            {
+              "id": "h2",
+              "name": "Kyle Walker",
+              "number": 2,
+              "position": "RB",
+              "role": "STARTER",
+              "rating": 7.2,
+              "teamName": "Manchester City",
+              "stats": {
+                "tackles": 3,
+                "interceptions": 2
+              }
+            },
+            {
+              "id": "h3",
+              "name": "Rúben Dias",
+              "number": 3,
+              "position": "CB",
+              "role": "STARTER",
+              "rating": 7.5,
+              "teamName": "Manchester City",
+              "stats": {
+                "clearances": 4,
+                "blocks": 1
+              }
+            },
+            {
+              "id": "h4",
+              "name": "John Stones",
+              " INDENT number": 5,
+              "position": "CB",
+              "role": "STARTER",
+              "rating": 7.4,
+              "teamName": "Manchester City",
+              "stats": {
+                "clearances": 3,
+                "interceptions": 2
+              }
+            },
+            {
+              "id": "h5",
+              "name": "Joško Gvardiol",
+              "number": 24,
+              "position": "LB",
+              "role": "STARTER",
+              "rating": 7.1,
+              "teamName": "Manchester City",
+              "stats": {
+                "tackles": 4,
+                "assists": 0
+              }
+            },
+            {
+              "id": "h6",
+              "name": "Rodri",
+              "number": 16,
+              "position": "CDM",
+              "role": "STARTER",
+              "rating": 8.0,
+              "teamName": "Manchester City",
+              "stats": {
+                "passes": 92,
+                "interceptions": 3
+              }
+            },
+            {
+              "id": "h7",
+              "name": "Bernardo Silva",
+              "number": 20,
+              "position": "CM",
+              "role": "STARTER",
+              "rating": 7.7,
+              "teamName": "Manchester City",
+              "stats": {
+                "passes": 76,
+                "shots": 2
+              }
+            },
+            {
+              "id": "h8",
+              "name": "Kevin De Bruyne",
+              "number": 17,
+              "position": "CM",
+              "role": "STARTER",
+              "rating": 8.3,
+              "teamName": "Manchester City",
+              "stats": {
+                "assists": 1,
+                "passes": 68,
+                "shots": 3
+              }
+            },
+            {
+              "id": "h9",
+              "name": "Phil Foden",
+              "number": 47,
+              "position": "RW",
+              "role": "STARTER",
+              "rating": 8.5,
+              "teamName": "Manchester City",
+              "stats": {
+                "goals": 1,
+                "shots": 4,
+                "assists": 0
+              }
+            },
+            {
+              "id": "h10",
+              "name": "Erling Haaland",
+              "number": 9,
+              "position": "ST",
+              "role": "STARTER",
+              "rating": 8.2,
+              "teamName": "Manchester City",
+              "stats": {
+                "goals": 1,
+                "shots": 6
+              }
+            },
+            {
+              "id": "h11",
+              "name": "Jack Grealish",
+              "number": 10,
+              "position": "LW",
+              "role": "STARTER",
+              "rating": 7.4,
+              "teamName": "Manchester City",
+              "stats": {
+                "shots": 2,
+                "assists": 0
+              }
+            },
+            {
+              "id": "h12",
+              "name": "Jérémy Doku",
+              "number": 11,
+              "position": "FW",
+              "role": "SUBSTITUTE",
+              "rating": 6.9,
+              "teamName": "Manchester City",
+              "stats": {}
+            },
+            {
+              "id": "h13",
+              "name": "Mateo Kovačić",
+              "number": 8,
+              "position": "CM",
+              "role": "SUBSTITUTE",
+              "rating": 6.8,
+              "teamName": "Manchester City",
+              "stats": {}
+            }
+          ]
+        },
+        "away": {
+          "teamName": "Bayern Munich",
+          "formation": "4-2-3-1",
+          "players": [
+            {
+              "id": "a1",
+              "name": "Manuel Neuer",
+              "number": 1,
+              "position": "GK",
+              "role": "STARTER",
+              "rating": 7.1,
+              "teamName": "Bayern Munich",
+              "stats": {
+                "saves": 6,
+                "conceded": 2
+              }
+            },
+            {
+              "id": "a2",
+              "name": "Raphaël Guerreiro",
+              "number": 22,
+              "position": "RB",
+              "role": "STARTER",
+              "rating": 6.8,
+              "teamName": "Bayern Munich",
+              "stats": {
+                "tackles": 2,
+                "interceptions": 1
+              }
+            },
+            {
+              "id": "a3",
+              "name": "Dayot Upamecano",
+              "number": 2,
+              "position": "CB",
+              "role": "STARTER",
+              "rating": 7.0,
+              "teamName": "Bayern Munich",
+              "stats": {
+                "clearances": 5,
+                "blocks": 2
+              }
+            },
+            {
+              "id": "a4",
+              "name": "Kim Min-jae",
+              "number": 3,
+              "position": "CB",
+              "role": "STARTER",
+              "rating": 7.2,
+              "teamName": "Bayern Munich",
+              "stats": {
+                "clearances": 6,
+                "interceptions": 3
+              }
+            },
+            {
+              "id": "a5",
+              "name": "Alphonso Davies",
+              "number": 19,
+              "position": "LB",
+              "role": "STARTER",
+              "rating": 7.5,
+              "teamName": "Bayern Munich",
+              "stats": {
+                "tackles": 3,
+                "assists": 0
+              }
+            },
+            {
+              "id": "a6",
+              "name": "Joshua Kimmich",
+              "number": 6,
+              "position": "CDM",
+              "role": "STARTER",
+              "rating": 7.1,
+              "teamName": "Bayern Munich",
+              "stats": {
+                "passes": 74,
+                "yellowCards": 1,
+                "interceptions": 2
+              }
+            },
+            {
+              "id": "a7",
+              "name": "Leon Goretzka",
+              "number": 8,
+              "position": "CDM",
+              "role": "STARTER",
+              "rating": 6.9,
+              "teamName": "Bayern Munich",
+              "stats": {
+                "passes": 62,
+                "interceptions": 2
+              }
+            },
+            {
+              "id": "a8",
+              "name": "Kingsley Coman",
+              "number": 11,
+              "position": "RW",
+              "role": "STARTER",
+              "rating": 7.3,
+              "teamName": "Bayern Munich",
+              "stats": {
+                "shots": 2,
+                "assists": 1
+              }
+            },
+            {
+              "id": "a9",
+              "name": "Jamal Musiala",
+              "number": 42,
+              "position": "CAM",
+              "role": "STARTER",
+              "rating": 8.2,
+              "teamName": "Bayern Munich",
+              "stats": {
+                "goals": 1,
+                "shots": 3,
+                "passes": 45
+              }
+            },
+            {
+              "id": "a10",
+              "name": "Leroy Sané",
+              "number": 10,
+              "position": "LW",
+              "role": "STARTER",
+              "rating": 7.1,
+              "teamName": "Bayern Munich",
+              "stats": {
+                "shots": 2,
+                "assists": 0
+              }
+            },
+            {
+              "id": "a11",
+              "name": "Harry Kane",
+              "number": 9,
+              "position": "ST",
+              "role": "STARTER",
+              "rating": 7.4,
+              "teamName": "Bayern Munich",
+              "stats": {
+                "shots": 4,
+                "assists": 0
+              }
+            },
+            {
+              "id": "a12",
+              "name": "Thomas Müller",
+              "number": 25,
+              "position": "FW",
+              "role": "SUBSTITUTE",
+              "rating": 6.8,
+              "teamName": "Bayern Munich",
+              "stats": {}
+            },
+            {
+              "id": "a13",
+              "name": "Serge Gnabry",
+              "number": 7,
+              "position": "FW",
+              "role": "SUBSTITUTE",
+              "rating": 6.6,
+              "teamName": "Bayern Munich",
+              "stats": {}
+            }
+          ]
+        }
+      }
+    },
+    "2": {
+      "incidents": [
+        {
+          "minute": 17,
+          "type": "GOAL",
+          "playerName": "Vinícius Júnior",
+          "teamName": "Real Madrid",
+          "assistedBy": "Jude Bellingham"
+        },
+        {
+          "minute": 34,
+          "type": "GOAL",
+          "playerName": "Kylian Mbappé",
+          "teamName": "Real Madrid"
+        },
+        {
+          "minute": 54,
+          "type": "YELLOW_CARD",
+          "playerName": "bientôt Tchouaméni",
+          "teamName": "Real Madrid"
+        },
+        {
+          "minute": 72,
+          "type": "GOAL",
+          "playerName": "Robert Lewandowski",
+          "teamName": "Barcelona",
+          "assistedBy": "Lamine Yamal"
+        }
+      ],
+      "stats": {
+        "home": {
+          "possessionPercent": 52,
+          "shots": {
+            "total": 14,
+            "onTarget": 6,
+            "offTarget": 8
+          },
+          "passes": {
+            "total": 542,
+            "accurate": 486
+          },
+          "corners": 7,
+          "fouls": 10,
+          "offsides": 2
+        },
+        "away": {
+          "possessionPercent": 48,
+          "shots": {
+            "total": 11,
+            "onTarget": 5,
+            "offTarget": 6
+          },
+          "passes": {
+            "total": 512,
+            "accurate": 448
+          },
+          "corners": 5,
+          "fouls": 12,
+          "offsides": 3
+        }
+      },
+      "lineups": {
+        "home": {
+          "teamName": "Real Madrid",
+          "formation": "4-3-3",
+          "players": [
+            {
+              "id": "h1",
+              "name": "Thibaut Courtois",
+              "number": 1,
+              "position": "GK",
+              "role": "STARTER",
+              "rating": 7.8,
+              "teamName": "Real Madrid",
+              "stats": {
+                "saves": 4,
+                "conceded": 1
+              }
+            },
+            {
+              "id": "h2",
+              "name": "Dani Carvajal",
+              "number": 2,
+              "position": "RB",
+              "role": "STARTER",
+              "rating": 7.4,
+              "teamName": "Real Madrid",
+              "stats": {
+                "tackles": 3,
+                "interceptions": 2
+              }
+            },
+            {
+              "id": "h3",
+              "name": "Antonio Rüdiger",
+              "number": 22,
+              "position": "CB",
+              "role": "STARTER",
+              "rating": 7.6,
+              "teamName": "Real Madrid",
+              "stats": {
+                "clearances": 5,
+                "blocks": 2
+              }
+            },
+            {
+              "id": "h4",
+              "name": "Éder Militão",
+              "number": 3,
+              "position": "CB",
+              "role": "STARTER",
+              "rating": 7.5,
+              "teamName": "Real Madrid",
+              "stats": {
+                "clearances": 4,
+                "interceptions": 3
+              }
+            },
+            {
+              "id": "h5",
+              "name": "Ferland Mendy",
+              "number": 23,
+              "position": "LB",
+              "role": "STARTER",
+              "rating": 7.2,
+              "teamName": "Real Madrid",
+              "stats": {
+                "tackles": 4,
+                "assists": 0
+              }
+            },
+            {
+              "id": "h6",
+              "name": "Federico Valverde",
+              "number": 15,
+              "position": "CM",
+              "role": "STARTER",
+              "rating": 7.7,
+              "teamName": "Real Madrid",
+              "stats": {
+                "passes": 76,
+                "shots": 1
+              }
+            },
+            {
+              "id": "h7",
+              "name": "Aurélien Tchouaméni",
+              "number": 18,
+              "position": "CDM",
+              "role": "STARTER",
+              "rating": 7.3,
+              "teamName": "Real Madrid",
+              "stats": {
+                "passes": 68,
+                "interceptions": 4,
+                "yellowCards": 1
+              }
+            },
+            {
+              "id": "h8",
+              "name": "Jude Bellingham",
+              "number": 5,
+              "position": "CAM",
+              "role": "STARTER",
+              "rating": 8.4,
+              "teamName": "Real Madrid",
+              "stats": {
+                "assists": 1,
+                "passes": 72,
+                "shots": 3
+              }
+            },
+            {
+              "id": "h9",
+              "name": "Rodrygo",
+              "number": 11,
+              "position": "RW",
+              "role": "STARTER",
+              "rating": 7.5,
+              "teamName": "Real Madrid",
+              "stats": {
+                "shots": 2,
+                "assists": 0
+              }
+            },
+            {
+              "id": "h10",
+              "name": "Kylian Mbappé",
+              "number": 9,
+              "position": "ST",
+              "role": "STARTER",
+              "rating": 8.6,
+              "teamName": "Real Madrid",
+              "stats": {
+                "goals": 1,
+                "shots": 5
+              }
+            },
+            {
+              "id": "h11",
+              "name": "Vinícius Júnior",
+              "number": 7,
+              "position": "LW",
+              "role": "STARTER",
+              "rating": 8.5,
+              "teamName": "Real Madrid",
+              "stats": {
+                "goals": 1,
+                "shots": 3
+              }
+            },
+            {
+              "id": "h12",
+              "name": "Luka Modrić",
+              "number": 10,
+              "position": "CM",
+              "role": "SUBSTITUTE",
+              "rating": 7.2,
+              "teamName": "Real Madrid",
+              "stats": {}
+            },
+            {
+              "id": "h13",
+              "name": "Eduardo Camavinga",
+              "number": 12,
+              "position": "CM",
+              "role": "SUBSTITUTE",
+              "rating": 7.0,
+              "teamName": "Real Madrid",
+              "stats": {}
+            }
+          ]
+        },
+        "away": {
+          "teamName": "Barcelona",
+          "formation": "4-3-3",
+          "players": [
+            {
+              "id": "a1",
+              "name": "Marc-André ter Stegen",
+              "number": 1,
+              "position": "GK",
+              "role": "STARTER",
+              "rating": 7.2,
+              "teamName": "Barcelona",
+              "stats": {
+                "saves": 4,
+                "conceded": 2
+              }
+            },
+            {
+              "id": "a2",
+              "name": "Jules Koundé",
+              "number": 2,
+              "position": "RB",
+              "role": "STARTER",
+              "rating": 7.1,
+              "teamName": "Barcelona",
+              "stats": {
+                "tackles": 2,
+                "interceptions": 3
+              }
+            },
+            {
+              "id": "a3",
+              "name": "Ronald Araújo",
+              "number": 4,
+              "position": "CB",
+              "role": "STARTER",
+              "rating": 7.3,
+              "teamName": "Barcelona",
+              "stats": {
+                "clearances": 6,
+                "blocks": 1
+              }
+            },
+            {
+              "id": "a4",
+              "name": "Iñigo Martínez",
+              "number": 5,
+              "position": "CB",
+              "role": "STARTER",
+              "rating": 7.0,
+              "teamName": "Barcelona",
+              "stats": {
+                "clearances": 5,
+                "interceptions": 2
+              }
+            },
+            {
+              "id": "a5",
+              "name": "Alejandro Balde",
+              "number": 3,
+              "position": "LB",
+              "role": "STARTER",
+              "rating": 7.1,
+              "teamName": "Barcelona",
+              "stats": {
+                "tackles": 3,
+                "assists": 0
+              }
+            },
+            {
+              "id": "a6",
+              "name": "Pedri",
+              "number": 8,
+              "position": "CM",
+              "role": "STARTER",
+              "rating": 7.8,
+              "teamName": "Barcelona",
+              "stats": {
+                "passes": 82,
+                "shots": 1
+              }
+            },
+            {
+              "id": "a7",
+              "name": "Frenkie de Jong",
+              "number": 21,
+              "position": "CM",
+              "role": "STARTER",
+              "rating": 7.6,
+              "teamName": "Barcelona",
+              "stats": {
+                "passes": 86,
+                "interceptions": 2
+              }
+            },
+            {
+              "id": "a8",
+              "name": "Ilkay Gündogan",
+              "number": 22,
+              "position": "CM",
+              "role": "STARTER",
+              "rating": 7.5,
+              "teamName": "Barcelona",
+              "stats": {
+                "passes": 78,
+                "shots": 2
+              }
+            },
+            {
+              "id": "a9",
+              "name": "Lamine Yamal",
+              "number": 27,
+              "position": "RW",
+              "role": "STARTER",
+              "rating": 8.0,
+              "teamName": "Barcelona",
+              "stats": {
+                "assists": 1,
+                "shots": 3
+              }
+            },
+            {
+              "id": "a10",
+              "name": "Robert Lewandowski",
+              "number": 9,
+              "position": "ST",
+              "role": "STARTER",
+              "rating": 7.8,
+              "teamName": "Barcelona",
+              "stats": {
+                "goals": 1,
+                "shots": 4
+              }
+            },
+            {
+              "id": "a11",
+              "name": "Raphinha",
+              "number": 11,
+              "position": "LW",
+              "role": "STARTER",
+              "rating": 7.3,
+              "teamName": "Barcelona",
+              "stats": {
+                "shots": 2,
+                "assists": 0
+              }
+            },
+            {
+              "id": "a12",
+              "name": "Fermín López",
+              "number": 16,
+              "position": "CM",
+              "role": "SUBSTITUTE",
+              "rating": 6.8,
+              "teamName": "Barcelona",
+              "stats": {}
+            },
+            {
+              "id": "a13",
+              "name": "Ferran Torres",
+              "number": 7,
+              "position": "FW",
+              "role": "SUBSTITUTE",
+              "rating": 6.7,
+              "teamName": "Barcelona",
+              "stats": {}
+            }
+          ]
+        }
+      }
+    },
+    "3": {
+      "incidents": [
+        {
+          "minute": 28,
+          "type": "GOAL",
+          "playerName": "Bukayo Saka",
+          "teamName": "Arsenal"
+        },
+        {
+          "minute": 45,
+          "type": "YELLOW_CARD",
+          "playerName": "Thomas Partey",
+          "teamName": "Arsenal"
+        },
+        {
+          "minute": 65,
+          "type": "GOAL",
+          "playerName": "Kai Havertz",
+          "teamName": "Arsenal",
+          "assistedBy": "Martin Ødegaard"
+        },
+        {
+          "minute": 76,
+          "type": "GOAL",
+          "playerName": "Federico Chiesa",
+          "teamName": "Juventus"
+        }
+      ],
+      "stats": {
+        "home": {
+          "possessionPercent": 58,
+          "shots": {
+            "total": 15,
+            "onTarget": 7,
+            "offTarget": 8
+          },
+          "passes": {
+            "total": 576,
+            "accurate": 511
+          },
+          "corners": 8,
+          "fouls": 9,
+          "offsides": 2
+        },
+        "away": {
+          "possessionPercent": 42,
+          "shots": {
+            "total": 10,
+            "onTarget": 5,
+            "offTarget": 5
+          },
+          "passes": {
+            "total": 427,
+            "accurate": 362
+          },
+          "corners": 4,
+          "fouls": 11,
+          "offsides": 3
+        }
+      },
+      "lineups": {
+        "home": {
+          "teamName": "Arsenal",
+          "formation": "4-3-3",
+          "players": [
+            {
+              "id": "h1",
+              "name": "David Raya",
+              "number": 1,
+              "position": "GK",
+              "role": "STARTER",
+              "rating": 7.4,
+              "teamName": "Arsenal",
+              "stats": {
+                "saves": 4,
+                "conceded": 1
+              }
+            },
+            {
+              "id": "h2",
+              "name": "Ben White",
+              "number": 4,
+              "position": "RB",
+              "role": "STARTER",
+              "rating": 7.3,
+              "teamName": "Arsenal",
+              "stats": {
+                "tackles": 3,
+                "interceptions": 2
+              }
+            },
+            {
+              "id": "h3",
+              "name": "William Saliba",
+              "number": 2,
+              "position": "CB",
+              "role": "STARTER",
+              "rating": 7.7,
+              "teamName": "Arsenal",
+              "stats": {
+                "clearances": 5,
+                "blocks": 2
+              }
+            },
+            {
+              "id": "h4",
+              "name": "Gabriel",
+              "number": 6,
+              "position": "CB",
+              "role": "STARTER",
+              "rating": 7.5,
+              "teamName": "Arsenal",
+              "stats": {
+                "clearances": 6,
+                "interceptions": 3
+                }
+              },
+              {
+                "id": "h5",
+                "name": "Jurrien Timber",
+                "number": 12,
+                "position": "LB",
+                "role": "STARTER",
+                "rating": 7.2,
+                "teamName": "Arsenal",
+                "stats": {
+                  "tackles": 4,
+                  "assists": 0
+                }
+              },
+              {
+                "id": "h6",
+                "name": "Declan Rice",
+                "number": 41,
+                "position": "CDM",
+                "role": "STARTER",
+                "rating": 8.0,
+                "teamName": "Arsenal",
+                "stats": {
+                  "passes": 85,
+                  "interceptions": 4
+                }
+              },
+              {
+                "id": "h7",
+                "name": "Thomas Partey",
+                "number": 5,
+                "position": "CM",
+                "role": "STARTER",
+                "rating": 7.3,
+                "teamName": "Arsenal",
+                "stats": {
+                  "passes": 72,
+                  "yellowCards": 1
+                }
+              },
+              {
+                "id": "h8",
+                "name": "Martin Ødegaard",
+                "number": 8,
+                "position": "CAM",
+                "role": "STARTER",
+                "rating": 8.2,
+                "teamName": "Arsenal",
+                "stats": {
+                  "assists": 1,
+                  "passes": 78,
+                  "shots": 3
+                }
+              },
+              {
+                "id": "h9",
+                "name": "Bukayo Saka",
+                "number": 7,
+                "position": "RW",
+                "role": "STARTER",
+                "rating": 8.4,
+                "teamName": "Arsenal",
+                "stats": {
+                  "goals": 1,
+                  "shots": 4
+                }
+              },
+              {
+                "id": "h10",
+                "name": "Kai Havertz",           
+                "number": 29,
+                "position": "ST",
+                "role": "STARTER",
+                "rating": 8.1,
+                "teamName": "Arsenal",
+                "stats": {
+                  "goals": 1,
+                  "shots": 5
+                }
+              },
+              {
+                "id": "h11",
+                "name": "Gabriel Martinelli",
+                "number": 11,
+                "position": "LW",
+                "role": "STARTER",
+                "rating": 7.6,
+                "teamName": "Arsenal",
+                "stats": {
+                  "shots": 3,
+                  "assists": 0
+                }
+              },
+              {
+                "id": "h12",
+                "name": "Leandro Trossard",
+                "number": 19,
+                "position": "FW",
+                "role": "SUBSTITUTE",
+                "rating": 7.0,
+                "teamName": "Arsenal",
+                "stats": {}
+              },
+              {
+                "id": "h13",
+                "name": "Gabriel Jesus",
+                "number": 9,
+                "position": "ST",
+                "role": "SUBSTITUTE",
+                "rating": 6.8,
+                "teamName": "Arsenal",
+                "stats": {}
+              }
+            ]
+          },
+          "away": {
+            "teamName": "Juventus",
+            "formation": "3-5-2",
+            "players": [
+              {
+                "id": "a1",
+                "name": "Michele Di Gregorio",
+                "number": 1,
+                "position": "GK",
+                "role": "STARTER",
+                "rating": 7.2,
+                "teamName": "Juventus",
+                "stats": {
+                  "saves": 5,
+                  "conceded": 2
+                }
+              },
+              {
+                "id": "a2",
+                "name": "Federico Gatti",
+                "number": 4,
+                "position": "CB",
+                "role": "STARTER",
+                "rating": 7.0,
+                "teamName": "Juventus",
+                "stats": {
+                  "clearances": 4,
+                  "blocks": 1
+                }
+              },
+              {
+                "id": "a3",
+                "name": "Bremer",
+                "number": 3,
+                "position": "CB",
+                "role": "STARTER",
+                "rating": 7.3,
+                "teamName": "Juventus",
+                "stats": {
+                  "clearances": 6,
+                  "interceptions": 2
+                }
+              },
+              {
+                "id": "a4",
+                "name": "Danilo",
+                "number": 6,
+                "position": "CB",
+                "role": "STARTER",
+                "rating": 7.1,
+                "teamName": "Juventus",
+                "stats": {
+                  "clearances": 5,
+                  "interceptions": 3
+                }
+              },
+              {
+                "id": "a5",
+                "name": "Andrea Cambiaso",
+                "number": 27,
+                "position": "RWB",
+                "role": "STARTER",
+                "rating": 7.2,
+                "teamName": "Juventus",
+                "stats": {
+                  "tackles": 3,
+                  "assists": 0
+                }
+              },
+              {
+                "id": "a6",
+                "name": "Manuel Locatelli",
+                "number": 5,
+                "position": "CM",
+                "role": "STARTER",
+                "rating": 7.0,
+                "teamName": "Juventus",
+                "stats": {
+                  "passes": 65,
+                  "interceptions": 2
+                }
+              },
+              {
+                "id": "a7",
+                "name": "Adrien Rabiot",
+                "number": 25,
+                "position": "CM",
+                "role": "STARTER",
+                "rating": 7.4,
+                "teamName": "Juventus",
+                "stats": {
+                  "passes": 58,
+                  "shots": 1
+                }
+              },
+              {
+                "id": "a8",
+                "name": "Weston McKennie",
+                "number": 16,
+                "position": "CM",
+                "role": "STARTER",
+                "rating": 7.1,
+                "teamName": "Juventus",
+                "stats": {
+                  "passes": 54,
+                  "assists": 1
+                }
+              },
+              {
+                "id": "a9",
+                "name": "Samuel Iling-Junior",
+                "number": 17,
+                "position": "LWB",
+                "role": "STARTER",
+                "rating": 7.0,
+                "teamName": "Juventus",
+                "stats": {
+                  "tackles": 2,
+                  "assists": 0
+                }
+              },
+              {
+                "id": "a10",
+                "name": "Dušan Vlahović",
+                "number": 9,
+                "position": "ST",
+                "role": "STARTER",
+                "rating": 7.2,
+                "teamName": "Juventus",
+                "stats": {
+                  "shots": 3,
+                  "assists": 0
+                }
+              },
+              {
+                "id": "a11",
+                "name": "Federico Chiesa",
+                "number": 7,
+                "position": "ST",
+                "role": "STARTER",
+                "rating": 7.6,
+                "teamName": "Juventus",
+                "stats": {
+                  "goals": 1,
+                  "shots": 4
+                },
+                "goals": 1
+              },
+              {
+                "id": "a12",
+                "name": "Arkadiusz Milik",
+                "number": 14,
+                "position": "FW",
+                "role": "SUBSTITUTE",
+                "rating": 6.7,
+                "teamName": "Juventus",
+                "stats": {}
+              }
+            ]
+          }
+        }
+      }
+    }
